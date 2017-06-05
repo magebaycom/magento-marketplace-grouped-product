@@ -2,7 +2,7 @@
 
 <p>Magento Marketplace Grouped Product plugin allows the seller to add Grouped Products from front end. Magento Marketplace Grouped Product is a plugin solution to enhance customer&rsquo;s shopping experience and give the items related to each other that the customer wants to add to the order</p>
 
-<h2>Marketplace MangoPay Payment Gateway Features</h2>
+<h2>Magento Marketplace Grouped Product Features</h2>
 
 <ul>
 	<li>Allow seller can add and edit grouped product.</li>
